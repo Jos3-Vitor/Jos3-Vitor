@@ -1,8 +1,8 @@
 # Hi, I'm José Vitor 👋
 
-I'm a Frontend Developer focused on building clean, accessible and scalable web interfaces.
+Frontend Developer focused on React, TypeScript and modern web interfaces.
 
-Currently studying Software Engineering and developing projects with React, TypeScript, Tailwind CSS and modern frontend tools. I enjoy working on products that combine usability, performance, design consistency and clear architecture.
+I build responsive, accessible and scalable frontend experiences using tools such as React, TypeScript, Tailwind CSS, Radix UI and shadcn/ui. My main focus is creating clean interfaces, reusable components and well-structured web applications.
 
 ## About me
 
